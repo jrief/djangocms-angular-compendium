@@ -22,12 +22,12 @@ From PyPI::
 In your project's settings, add ``angularjs_compendium`` to ``INSTALLED_APPS``. Check that this
 entry is located before any DjangoCMS plugin entry::
 
-  INSTALLED_APPS = (
-      ...
-      'angularjs_compendium',
-      ...other DjangoCMS plugins
-      ...
-  )
+	INSTALLED_APPS = (
+	    ...
+	    'angularjs_compendium',
+	    ...other DjangoCMS plugins
+	    ...
+	)
 
 License
 -------
