@@ -1,0 +1,12 @@
+*.log
+*.pot
+*.pyc
+.project
+.pydevproject
+.settings
+.coverage
+.DS_Store
+build
+env*
+dist
+djangocms_style.egg-info
